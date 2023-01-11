@@ -1,6 +1,5 @@
 # Welcome to my semester blog
 
-List:
+In-class notes:
 
-- item one
-- item two
+* [Jan 11](01_11_classmeeting.html)
