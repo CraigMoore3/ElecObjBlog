@@ -1,8 +1,9 @@
 # January 14, 2023 - Blog Site Map
+<!-- markdownlint-disable MD036 -->
 
 Working through ideas for class blog sitemap:
 
-~~Notes, In-Class, Labs, Projects~~ 
+~~Notes, In-Class, Labs, Projects~~
 
 *too many categories. will be annoying to toggle between in/out of class notes*
 
