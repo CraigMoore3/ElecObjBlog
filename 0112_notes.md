@@ -20,7 +20,7 @@ AC Adapters, or Wall Warts, converts AC from wall socket to DC for charging devi
 
 ![Ohm's Law formula V=IR](images/ohmsLaw.png)
 
-* Formula for finding converting between Volts, Current, and Resistence
+* Formula for converting between Volts, Current, and Resistence
 * Volts are measured as such, represented by V, E.
 * Current is meausred in amps, represented by A, I.
 * Resistance is measured in Ohm's, represented by Omega, R.
