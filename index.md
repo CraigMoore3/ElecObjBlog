@@ -9,4 +9,10 @@
 
 ## Labs
 
+* [Jan 12- Lab 1 - Flashlight](lab1.html)
+* [Jan 12 - Lab 2 - Voltage Divider](lab2.html)
+
 ## Projects
+
+* Midterm (tbd)
+* Final (tbd)
