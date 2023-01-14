@@ -1,5 +1,9 @@
 # Welcome to my semester blog
 
-## In-class notes
+## Notes
 
-* [Jan 11](01_11_classmeeting.html)
+* [Jan 11 - In class](0111_inClass.html)
+
+## Labs
+
+## Projects
