@@ -22,7 +22,7 @@ Using breaboard, 9v battery, resistor and wires to illuminate LED in first circu
 
 * Built circut - few complications
 
-![LED Circut before battery is connected](images/lab1WIP.png)
+<!-- ![LED Circut before battery is connected](images/lab1WIP.png) -->
 
 * Before connecting battery
 
@@ -30,7 +30,7 @@ Using breaboard, 9v battery, resistor and wires to illuminate LED in first circu
 
 * After studying videos/pdf and taking detailed notes, I had success on the first attempt
 
-![Doccumentation of successful attempt](images/lab1Success.png)
+<!-- ![Doccumentation of successful attempt](images/lab1Success.png) -->
 
 ## Conclusion
 
