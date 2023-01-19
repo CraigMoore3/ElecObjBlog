@@ -14,7 +14,7 @@ Using push buttons with digital inputs to turn LED on/off
 
 * Copying the code from the lab pdf, I made an effort to interpret each line, rather than blindly copy/pasting, making comments along the way. The effect was a code that, while borrowed, still makes structural sense to me.
 
-<!-- Code Screenshot -->
+![My lab 3 code with comments](images/lab3Code.png)
 
 * The function in setup uses the PULLUP command, which reads when there is nothing connected to the input and pulls it up to HIGH.
 
@@ -24,7 +24,7 @@ Using push buttons with digital inputs to turn LED on/off
 
 * Next, I thought, would be the seamless process of uploading the code and testing my circut. Unfortunately, I kept recieving an error message.
 
-<!-- Error message -->
+![Error message you get when your arduino isn't plugged in](images/lab3Error.png)
 
 * Complicated as it seemed, this error was due to the simple fact that my arduino was not plugged in. Sigh.
 
@@ -34,9 +34,9 @@ Using push buttons with digital inputs to turn LED on/off
 
 * Fortunately, my code and breadboard circut worked on the first try!
 
-<!-- LED ON -->
+![Successful lab - LED On](images/lab3On.png)
 
-<!-- LED OFF -->
+![Sucessful lab - LED Off](images/lab3Off.png)
 
 * Both of my buttons performed their intended task, the LED was turning on and off as was supposed to happen, and nothing blew up!
 
