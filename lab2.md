@@ -37,7 +37,7 @@ My first goal was to get an accurate reading of a 9v battery divided by two 330R
 
 * And here is a reading with the potentiometer turned all the way up
 
-![Voltage reading of 9v battery running through potentiometer turned all the way up](images/pmeter2.png) 
+![Voltage reading of 9v battery running through potentiometer turned all the way up](images/pmeter2.png)
 
 ## Result
 
