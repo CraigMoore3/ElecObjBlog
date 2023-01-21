@@ -6,6 +6,7 @@
 * [Jan 11 - In-class](0111_inClass.html)
 * [Jan 12 - Electricity Basics](0112_notes.html)
 * [Jan 14 - Blog Sitemap](0114_notes.html)
+* [Jan 18 - In-class](0118_inClass.md)
 
 ## Labs
 
