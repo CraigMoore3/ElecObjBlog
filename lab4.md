@@ -10,9 +10,11 @@ Covering the basics of using analog inputs with the Uno R3
 
 * With a deeper understanding of the vocabulary, I read over the entire lab doccument again before getting to work on the first excercise.
 
+## Process
+
 ### 1: Serial Output
 
-* I copied the code from the lab doccument, built it and uploaded it without any problems. 
+* I copied the code from the lab doccument, built it and uploaded it without any problems.
 
 [Screenshot of Excercise 1 code](images/l4e1SerialOutputCode.png)
 
@@ -68,9 +70,25 @@ Covering the basics of using analog inputs with the Uno R3
 
 ### 4: Controlling the Brightness of an LED
 
-### 5: Light Sensor
+* The lab doc suggested leaving the previous circut in place, but I decided to make some modifications for the sake of usability.
 
-## Process
+[Photo of new breadboard layout w/ LED and potentiometer](images/l4e4Breadboard.png)
+
+* I copied over the new bit of code, noting how the analogWrite function uses Pulse Width Modulation to simulate an analog signal to dim the LED
+
+[Screenshot of code to control brightness with potentiometer](images/l4e4Code.png)
+
+* I think that we divide reading by 4 to give the LED a signal output that wont overload it. We know from the first excercise that the signal from A0 provides values ranging from 0-1023, which would be too much for the LED.
+
+* Having created the code and built the breadboard, I tested it out. I had success, but the potentiometer that comes with the kit is terrible. I had to hold the base in place to get a consistent signal that didnt flicker.
+
+* With that said, my circut did work and I was able to adjust the brightness of the LED using PWM. At lower values, it was more obvious that I was using a modulated pulse to control the brightness.
+
+[Photo of successful LED control - low Brightness](images/l4e4ledLow)
+
+[Photo of successful LED control - high Brightness](images/l4e4ledHigh)
+
+### 5: Light Sensor
 
 ## Results
 
