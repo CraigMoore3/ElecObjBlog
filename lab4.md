@@ -90,6 +90,26 @@ Covering the basics of using analog inputs with the Uno R3
 
 ### 5: Light Sensor
 
-## Results
+* I built the breadboard based on the schematic in the lab doc, and wrote the code, which was very similar to the first excercise.
+
+![Photo of breadboard including photoresistor and the passive buzzer](images/l4e5Breadboard.png)
+
+* Looking at the Serial Monitor, I noticed that the ambient light in my room was producing a value around 375. When I cover it with my finger, I get it down to about 120. Shining a flashlight at it produces around 750.
+
+* Starting with my min/max values set at 120, 375, I uploaded the new code and got the buzzer working and repsonding to changes in light.
+
+* After a tinkering with the values, I found a min/max that worked with my room and created the widest diversity of tones on the buzzer.
+
+* I took a video as documentation of success but will omit that from the blog
 
 ## Conclusion
+
+* At the end of this lab, I am left with a greater understanding of the basic capabilities of a microcontroller and am beginning to grasp how basic data (output voltage, ambient light) can be scaled up or down to control almost anything.
+
+* With that said, I still have some remaining questions about the differences between synchronous/asynchronous comunication.
+
+* Also, I am having a hard time grasping exactly which unit of measurement the controller is using when outputting the unconverted analog signal.
+
+* Moreover, I need some more elaboration on what baud rate controls and how to know when to alter the 9600 value
+
+* This lab took about 4.5 hours from beginning to end. I experimented with updating the blog directly as I completed the lab, which I think I will continue to do in the future.
