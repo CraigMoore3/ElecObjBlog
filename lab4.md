@@ -34,11 +34,11 @@ Covering the basics of using analog inputs with the Uno R3
 
 * With the breadboard built out, I copied the code, taking the time to add my own notes in an effort to understand what it's doing.
   
-![Screenshot of Voltage Divider Code](images/l4e2VoltDivCode)
+![Screenshot of Voltage Divider Code](images/l4e2VoltDivCode.png)
 
 * After building and uploading, I had what looked like success, although I couldn't be sure until I converted the analog reading to volts.
 
-![Screenshot of Voltage Divider Serial Monitor](images/l4e2SerialMonitor)
+![Screenshot of Voltage Divider Serial Monitor](images/l4e2SerialMonitor.png)
 
 #### 2.5: Showing Volts Instead
 
@@ -84,9 +84,9 @@ Covering the basics of using analog inputs with the Uno R3
 
 * With that said, my circut did work and I was able to adjust the brightness of the LED using PWM. At lower values, it was more obvious that I was using a modulated pulse to control the brightness.
 
-![Photo of successful LED control - low Brightness](images/l4e4ledLow)
+![Photo of successful LED control - low Brightness](images/l4e4ledLow.png)
 
-![Photo of successful LED control - high Brightness](images/l4e4ledHigh)
+![Photo of successful LED control - high Brightness](images/l4e4ledHigh.png)
 
 ### 5: Light Sensor
 
