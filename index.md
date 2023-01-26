@@ -14,6 +14,7 @@
 * [Jan 12 - Lab 1 - Flashlight](lab1.html)
 * [Jan 12 - Lab 2 - Voltage Divider](lab2.html)
 * [Jan 18 - Lab 3 - Digital Inputs](lab3.html)
+* [Jan 26 - Lab 4 - Analog Inputs](lab4.html)
 
 ## Projects
 
