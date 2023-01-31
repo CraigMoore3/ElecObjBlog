@@ -10,6 +10,7 @@
 * [Jan 23 - In-class](0123_inClass.html)
 * [Jan 25 - In-class](0125_inClass.html)
 * [Jan 25 - Soldering](0125_notes.html)
+* [Jan 30 - In-class](0130_inClass.md)
 
 ## Labs
 
@@ -17,6 +18,7 @@
 * [Jan 12 - Lab 2 - Voltage Divider](lab2.html)
 * [Jan 18 - Lab 3 - Digital Inputs](lab3.html)
 * [Jan 26 - Lab 4 - Analog Inputs](lab4.html)
+* [Jan 30 - Lab 5 - LCD Display](lab5.md)
 
 ## Projects
 
