@@ -21,6 +21,18 @@ Wiring and Controlling LCD Display with Arduino UNO
 
 * I started by working from the wiring diagram to create my breadboard circut. The Diagram itself confused me because the pins on the LCD were not labled, but the connection schematic resolved that trouble. It took some focus, but it eventually came together
 
-Image
+! [Breadboard layout for LCD Display](images/lab5Breadboard.png)
 
-* Next, I started copying the code from the doccument.
+* Next, I copied the code from the doccument and read through the notes and key to understand what each line's function was.
+
+* Having accessed the code, I uploaded it to the arduino and had success.
+
+! [LCD Display: Hello World!](images/lab5LCD1.png)
+
+* To finish the lab, I experimented with displaying different strings of text on the LCD.
+
+! [LCD Display: Lab 5 Complete](images/lab5LCD2.png)
+
+## Conclusion
+
+* In the end, this lab was pretty easy with the help of the instructions. Although I think that I'm lacking some of the foundational knowledge of the layout of the LCD Display, I think that this lab taught me enough to display text on and LCD in future projects.
