@@ -11,6 +11,7 @@
 * [Jan 25 - In-class](0125_inClass.html)
 * [Jan 25 - Soldering](0125_notes.html)
 * [Jan 30 - In-class](0130_inClass.md)
+* [Feb 02 - Zoom Recap](0202_notes.md)
 
 ## Labs
 
