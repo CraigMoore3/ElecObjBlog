@@ -16,28 +16,28 @@ Creating voltage dividers using resistors and a potentiometer, measuring the out
 
 * I sat down with the kits and began assembling my first voltage divider using two 330R resistors.
 
-![Detail shot of two 330 Ohm resistors on breadboard](images/lab2Detail.png)
+![Detail shot of two 330 Ohm resistors on breadboard](images/l2Detail.png)
 
 ## Process
 
 My first goal was to get an accurate reading of a 9v battery divided by two 330R resistors.
 
-![Voltage reading of 9v battery running through two 330 Ohm resistors](images/lab2Divider.png)
+![Voltage reading of 9v battery running through two 330 Ohm resistors](images/l2Divider.png)
 
 * At first, I thought I had made a mistake in the construction of my circut. After asking the class Discord, I took a reading of the 9v battery by itself, realizing that it was not outputting a consistent 9v current.
 
-![Voltage reading of 9v battery reading 7.34v](images/lab2Battery.png)
+![Voltage reading of 9v battery reading 7.34v](images/l2Battery.png)
 
 * With that said, my inital reading of 3.46v was accurate and my 330R divider was successful.
 * Next, I wanted to try working with the potentiommeter. I noted that the three metal teeth on the potentiometer are meant for (when seen from above) ground, output, and Vcc, from left to right.
 * Having learned that, I made my best guess at how that might look in application, and was able to create a successful voltage divider using a potentiometer.
 * This was a successful reading with the potentiometer turned all the way down
 
-![Voltage reading of 9v battery running through potentiometer turned all the way down](images/pmeter1.png)
+![Voltage reading of 9v battery running through potentiometer turned all the way down](images/l2pmeter1.png)
 
 * And here is a reading with the potentiometer turned all the way up
 
-![Voltage reading of 9v battery running through potentiometer turned all the way up](images/pmeter2.png)
+![Voltage reading of 9v battery running through potentiometer turned all the way up](images/l2pmeter2.png)
 
 ## Result
 
