@@ -43,3 +43,11 @@ Using composite temperature/humidity sensor and ultrasonic proximity sensor with
 * Then, I tested out switching the unit to inches.
 
 ![Screenshot of successful distance readings in serial monitor, inches](images/l6e2SerialIn.png)
+
+## Questions for class
+
+* How would you change the unit from Celcius to Farenheit?
+
+* How would you create an if statement to make comments based on the weather conditions?
+
+* More information on technical applications for ultrasonic sensors, seems very interesting
