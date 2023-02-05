@@ -18,11 +18,11 @@ Using composite temperature/humidity sensor and ultrasonic proximity sensor with
 
 * I replaced the old contents of main.cpp with the gist from the lab doc and it built successfully.
 
-![Screenshot of successful code](images/l6e1Code1.png)
+![Screenshot of successful code](images/l6e1Code.png)
 
 * To finish preparing, I wired my breadboard to incorporate the DHT11 Sensor
 
-![Close-up photo of DHT11 Sensor connected to breadboard with LCD Display](images/l4e1Breadboard.png)
+![Close-up photo of DHT11 Sensor connected to breadboard with LCD Display](images/l6e1Breadboard.png)
 
 * After uploading, I had success!
 
@@ -43,4 +43,3 @@ Using composite temperature/humidity sensor and ultrasonic proximity sensor with
 * Then, I tested out switching the unit to inches.
 
 ![Screenshot of successful distance readings in serial monitor, inches](images/l6e2SerialIn.png)
-
