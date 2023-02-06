@@ -51,3 +51,7 @@ Using composite temperature/humidity sensor and ultrasonic proximity sensor with
 * How would you create an if statement to make comments based on the weather conditions?
 
 * More information on technical applications for ultrasonic sensors, seems very interesting
+
+## Post-Class Review
+
+* float a new "FTemp" variable which is temperature * 1.8 + 32, place that in "print"
