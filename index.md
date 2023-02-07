@@ -21,6 +21,7 @@
 * [Jan 26 - Lab 4 - Analog Inputs](lab4.html)
 * [Jan 30 - Lab 5 - LCD Display](lab5.html)
 * [Feb 04 - Lab 6 - Sensors](lab6.html)
+* [Feb 07 - Lab 7 - Sensor Changes](lab7.html)
 
 ## Projects
 
