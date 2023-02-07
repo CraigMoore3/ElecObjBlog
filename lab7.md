@@ -24,7 +24,7 @@ Some notes from reviewing the lab doc:
 
 * The serial monitor started printing an endless barage of data values
 
-![Screenshot of Serial monitor displaying an erroneous wall of data from the joystick](images/l7e1Serial1.png)
+![Screenshot of serial monitor displaying an erroneous wall of data from the joystick](images/l7e1Serial1.png)
 
 * Upon further inspection, I realised that I had mistakenly omitted "ln" the last "Serial.print" function, creating that error. With that fixed, the serial monitor started displaying accurate data.
 
@@ -44,4 +44,25 @@ Some notes from reviewing the lab doc:
 
 ### Excersise 2: Responding to Changes in the State of a Sensor
 
+* I read through the code a few times, noticing that this function will endlessly repeat, constantly setting the last button state as the current, potentially voiding the if/ statement? I will see when I upload the code.
+
+![Screenshot of serial monitor displaying "Button state changed!"](images/l7e2Serial1.png)
+
+* While my prior assumption was incorrect, I am still occasionally getting multiple messages when I press the button, but not when I release. Perhaps this is because the switch is sending over a steady data stream while its pressed, tricking the code into thinking that there are multiple presses happening?
+
+* I assumed that I could set a second parameter in the if statement requiring the button state to be LOW in order to print the message, but it gave me an error as if buttonState couldn't be used twice in the same if statement.
+
+### Excercise 3: Analog Input Threshold
+
+* This excercise makes a degree of intuitive sense to me, and the code is laid out in a way where I feel like I could easily integrate it with my own project.
+
+* I copied the code, and it worked.
+
+![Screenshot of serial monitor accurately displaying threshold message](images/l7e3Serial1.png)
+
 ## Conclusion
+
+* Going forward, I would like to refine my understanding of if statements. They're one of the most powerful ways to integrate booleans into your code and get a lot of response and interconnected processes. They confused me last semester, and they still confuse me this semester.
+
+* How would I go about finishing the extra tast in excercise 2? How can I check multiple parameters in a single if function?
+* 
