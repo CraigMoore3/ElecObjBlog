@@ -65,4 +65,3 @@ Some notes from reviewing the lab doc:
 * Going forward, I would like to refine my understanding of if statements. They're one of the most powerful ways to integrate booleans into your code and get a lot of response and interconnected processes. They confused me last semester, and they still confuse me this semester.
 
 * How would I go about finishing the extra tast in excercise 2? How can I check multiple parameters in a single if function?
-* 
