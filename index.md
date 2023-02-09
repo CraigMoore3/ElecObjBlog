@@ -22,6 +22,7 @@
 * [Jan 30 - Lab 5 - LCD Display](lab5.html)
 * [Feb 04 - Lab 6 - Sensors](lab6.html)
 * [Feb 07 - Lab 7 - Sensor Changes](lab7.html)
+* [Feb 09 - Lab 8 - Web Serial](lab8.html)
 
 ## Projects
 
