@@ -28,5 +28,8 @@
 
 ## Projects
 
-* Midterm (tbd)
-* Final (tbd)
+### Midterm
+
+* [Feb 21 - Progress Update](0221_progress.html)
+
+### Final
