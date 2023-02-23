@@ -42,4 +42,38 @@ I have to admit something: This project has been tough for me. I came into the c
 
 ### Sketch 5: The Death of Reason: (or) The Time Craig Wanted to Build a Rocket
 
-* Leaving logic, theme, concept, and rationality at the door, I started to brainstorm what I thought the *coolest* thing I could make might be. Give me a break, I was out of ideas, very nearly out of time for ordering stuff of the internet, very desperate, and just so happened to be listening to the [Insert Credit Podcast](https://insertcredit.com). This is where I first caught mention of something called *Steel Battallion* and, far more importantly, its ludicrously complicated, unashamedly dorky controller.
+* Leaving logic, theme, concept, and rationality at the door, I started to brainstorm what I thought the *coolest* thing I could make might be. Give me a break, I was out of ideas, very nearly out of time for ordering stuff of the internet, very desperate, and just so happened to be listening to the [Insert Credit Podcast](https://insertcredit.com). This is where I first caught mention of a game called *Steel Battallion* and, far more importantly, its ludicrously complicated, unashamedly dorky controller.
+
+![Controller setup for Steel Batallion Xbox Game](images/midterm/steelCont.png)
+
+* Yep. You're reading this right. I was going to do what Capcom couldn't. I was going to make a (totally not useless) giant plastic modded keyboard that works slightly less than and costs exponentially more than a USB Flight Stick.
+
+* Alright, sure. My sketch was a whole lot less complicated than that, but the problem was simply that I was trying to make an interface for a program that didn't exist. Adding as much "interactivity" as I could think ("oh, wow! the button is glowing! I should press it!") without a shred of an idea what it was all for. Although.... The idea did lead me to the question which would eventually pull me out of these dark, dark times. I wanted it to have an embedded screen. *Cue divine intervention.*
+
+### Sketch 6: Oh Yeah! Now we're getting somewhere (virtual pet)
+
+* TFT! **TFT!** Folks, let me tell you about a little something called TFT... Like a beam of heavenly light pouring from the clouds, these cheap-as-dirt little screens entered the equation. The possibilities felt endless. The project started to materialize. I was going to build a virtual pet that responds to real world conditions, has animations that trigger based on-
+
+* Crap.
+
+### Sketch 7: With all that said, where are we now?
+
+* There will be no animations. There will be no needlessly complicated interactivity for the sake of it. After much trial and error, I settled upon my current concept. Using basic drawings, creative hacking of screen-clearing and a slow refresh speed, and lots of text, I want to create an experimental narrative. The basic idea is that the user "stumbles upon" a cyllindrical object, resmbling a small telescope, with a small opening on one side. When they peer in, they will be greeted by text on the screen, addressing the user directly. Using a button and an ultrasonic sensor, the user will be able to trigger reactions from the "sentience" inhabiting the object. Whether they follow its directions and aid it on its questionable quest, or will they reject it entirely?
+
+## Progress Update
+
+With the TFT in my possession, I used the [WaveShare Wiki Entry](https://www.waveshare.com/wiki/2inch_LCD_Module?Amazon#Arduino_Software_Description) on connecting the TFT to the Arduino and got the hang of the basic functions and capabilities of the tft
+
+![Pin connections from TFT to Arduino](images/midterm/tftPins.png)
+
+![TFT Display displaying "Hello, world!"](images/midterm/tftHelloWorld.png)
+
+![TFT Display showing Waveshare defaults](images/midterm/tftWsDefault.png)
+
+![TFT Display showing assorted custom text](images/midterm/tftTuesTest.png)
+
+As of now, my primary goal is to migrate from the Arduino IDE over to VSC, which will require me to move the LCD Driver and GUI Paint .cpp and .h files over to VSC. After that, I'll integrate the ultrasonic and button functionality into the same project.
+
+Simultaneously, I will continue exploring different methods for housing the project. Currently, I'm looking to modify a smartphone VR attachment so that one lens magnifies the display while the other is removed so that the user can still see their surroundings.
+
+More updates to come soon.
