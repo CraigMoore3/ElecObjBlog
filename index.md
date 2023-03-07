@@ -30,6 +30,7 @@
 
 ### Midterm
 
-* [Feb 21 - Progress Update](0221_progress.html)
+* [Feb 21 - Progress Update 1](0221_progress.html)
+* [Mar 07 - Progress Update 2](0307_progress.html)
 
 ### Final
