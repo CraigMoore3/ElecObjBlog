@@ -18,12 +18,12 @@ Where I still harbor some dissatisfaction regarding the look of the headset itse
 
 ![Brsonson (classmate) watching shutdownSequence()](images/midterm/bronsonTest.png)
 
-*Bronson*
+### *Bronson*
 
 ![Rob (professor) watching shutdownSequence()](images/midterm/robTest.png)
 
-*Rob*
+### *Rob*
 
 ![Evan Meany (Artist) watching shutdownSequence()](images/midterm/meanyTest.png)
 
-*Evan Meany*
+### *Evan Meany*
