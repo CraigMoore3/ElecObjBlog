@@ -2,8 +2,6 @@
 
 ## shutdownSequence()
 
-<>
-
 ![Profile shot of completed headset](images/midterm/headset1.png)
 
 ![Second profile shot of completed headset](images/midterm/headset2.png)
