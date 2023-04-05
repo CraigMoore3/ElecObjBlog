@@ -25,6 +25,7 @@
 * [Feb 04 - Lab 6 - Sensors](lab6.html)
 * [Feb 07 - Lab 7 - Sensor Changes](lab7.html)
 * [Feb 09 - Lab 8 - Web Serial](lab8.html)
+* [Apr 05 - Lab 9 - Transistors and Motors (incomplete)](lab9.html)
 
 ## Projects
 
