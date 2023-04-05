@@ -36,3 +36,5 @@
 * [Mar 20 - shutdownSequence() - Midterm Complete](0320_midComplete.md)
 
 ### Final
+
+* [Apr 05 - Abandoned Concepts](0405_finAbandonedConcepts.html)
