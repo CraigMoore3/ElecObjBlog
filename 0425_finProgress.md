@@ -28,14 +28,26 @@ We quickly decided that we would be working on a sound collage, as opposed to a 
 
 ### The Final Lineup
 
-* Springtime in Tallahassee - 45'
+* *Springtime in Tallahassee* - sampled from found 45' - Slowed down and looped
 
-* Animal Crossing - YouTube
+* Animal Crossing Dialogue Sound - YouTube - slowed down
 
-* Wheel of Fortune - Youtube
+* Wheel of Fortune Spin - Youtube - sped up
 
-* Autumn Sonata - Youtube
+* Dialogue from *Autumn Sonata* - Youtube - looped
 
-* Preschool - BBC Sound Library
+* Preschool - BBC Sound Library - looped
 
-* Applause - BBC Sound Library
+* Applause - BBC Sound Library - looped
+
+## Assembly
+
+With the reed switches soldered and working with the Makey Makey, Grace and I went ahead and secured the switches to the bottom of the rug. We reinforced the parts of the rug near the switches with cardboard, which was soft enough to not feel out of place. Grace cut small wood bases for each of the interactive objects, on which we secured small magnets after testing the rug with the wired switches.
+
+![Documentation of successful version with wired switches](images/final/workingTest.png)
+
+At this point, the only thing left to do was secure the objects on the board with velcro (this is a temporary solution).
+
+![Documentation of object board](images/final/objectBoard.png)
+
+Next, we get feedback at critique.
